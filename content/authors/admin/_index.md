@@ -41,9 +41,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lingkai-kong-a12511135/
-- icon: cv
+- icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?use
+  link: https://scholar.google.com/citations?hl=en&user=k8IUG9cAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7LpSeM-cp5ZhDWjJHvrdgXfFQrVeW5z7K86SLD8gf8yQJ7MXqn7F-lXicOpdvSX8PiDT9jWpEMGfi2dZtV-3m9lpVgfv02g__VdQwSqZcruTKSkCI
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
