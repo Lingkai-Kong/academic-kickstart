@@ -40,11 +40,11 @@ title = "Education"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "0px", "150px"]
+  padding = ["0px", "0", "0px", "230px"]
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "width: 1200px;"
  
  # CSS class.
  css_class = ""
@@ -52,5 +52,6 @@ title = "Education"
 ---
 - **Georgia Institute of Technology**, Atlanta, USA <br>
 *Ph.D.* in Computational Science and Engineering,  2019 - present
+
 - **Southeast University**, Nanjing, China <br>
 *B.E.* in Information Engineering, 2013 - 2017
