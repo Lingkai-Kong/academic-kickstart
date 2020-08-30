@@ -3,4 +3,350 @@ nav#navbar-main li.nav-item {
   font-size: 20px;
 //   font-weight: bold;
 }
+.home-section {
+  background-color: $sta-home-section-odd;
+  padding: 100px 0 0px 0;
+  animation: intro 0.3s both;
+  animation-delay: 0.15s;
+}
+
+/* Override dark colors that may be inherited from body.dark */
+.home-section.dark,
+.home-section.dark h1,
+.home-section.dark h2,
+.home-section.dark h3,
+.home-section.dark a:not(.btn) {
+  color: rgb(248, 248, 242);
+}
+
+/* Underline links in dark sections to separate them from text */
+.home-section.dark a:not(.btn):not(.hero-cta-alt) {
+  text-decoration: underline;
+}
+
+/* Revert Alert Box Link style (.home-section.dark style above should not be applied to it) */
+.home-section.dark .alert a {
+  color: inherit !important;
+  text-decoration: inherit !important;
+}
+
+/* Big underline style for links in dark sections */
+/* Disabled as it's an experimental style that requires CSS NOT Selector Level 4 (only in Safari) */
+/*
+.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
+  text-decoration: none;
+  position: relative;
+}
+.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
+  background: #fff;
+  content: "";
+  height: 2px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 100%;
+}*/
+
+/* Default background image properties for home sections. */
+.home-section.bg-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Create a parallax-like scrolling effect. */
+.parallax {
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.home-section:first-of-type {
+  padding-top: 50px;
+}
+
+.home-section:nth-of-type(even) {
+  background-color: $sta-home-section-even;
+}
+
+.dark .home-section {
+  background-color: $sta-dark-home-section-odd;
+}
+
+.dark .home-section:nth-of-type(even) {
+  background-color: $sta-dark-home-section-even;
+}
+
+@media screen and (max-width: 768px) {
+  .home-section {
+    padding: 60px 0 60px 0;
+  }
+  .home-section:first-of-type {
+    padding-top: 20px;
+  }
+}
+
+.section-heading h1 {
+  margin: 0 0 10px 0px;
+}
+
+.section-heading p {
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #b2b2b2;
+}
+
+/*************************************************
+ *  Widgets (common)
+ **************************************************/
+
+.see-all {
+  margin-top: 2rem;
+  text-transform: uppercase;
+}
+
+/* Reset code highlighting style in Alerts when Alert is child of a `.dark` widget, but Alert should be light.` */
+/* But will this affect page which should have dark Alert? */
+.dark .alert pre,
+.dark .alert code {
+  color: initial;
+  background-color: initial;
+}
+
+/*************************************************
+ *  Hero Widget
+ **************************************************/
+
+.wg-hero {
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: intro 0.3s both;
+  animation-delay: 0s;
+  animation-delay: 0.25s;
+}
+
+.hero-title {
+  font-size: 2.7rem;
+  margin-top: 0;
+  line-height: 1;
+}
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1.35rem;
+}
+
+.wg-hero.dark .hero-title,
+.wg-hero.dark .hero-lead,
+.wg-hero.dark .hero-cta-alt,
+.wg-hero.dark .hero-note > * {
+  color: #fff;
+  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/ /* Uncomment to standout on complicated backgrounds. */
+}
+
+.wg-hero.dark a:not(.wg-hero .btn) {
+  color: #fff;
+}
+
+.wg-hero .hero-lead a {
+  text-decoration: underline;
+}
+
+.wg-hero .cta-btns {
+  margin-bottom: 16px;
+}
+
+.wg-hero .btn {
+  padding: .6em 2.1em;
+}
+
+.wg-hero.dark .btn {
+  color: $sta-primary-dark;
+}
+
+a.hero-cta-alt {
+  display: inline-block;
+  position: relative;
+  transition-duration: .2s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+  font-size: 1.1rem;
+}
+
+a.hero-cta-alt:active,
+a.hero-cta-alt:focus,
+a.hero-cta-alt:hover {
+  transform: scale(1.1);
+}
+
+.wg-hero .btn-lg {
+  font-size: 1.1rem;
+}
+
+.wg-hero .hero-note {
+  font-size: 0.8rem;
+}
+
+.hero-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+}
+
+/*************************************************
+ *  Slider Widget
+ **************************************************/
+
+/* Clear `.home-section` as padding and animation interferes with Slider's layout and animations. */
+.home-section.wg-slider {
+  padding: 0;
+  animation: none;
+  animation-delay: unset;
+}
+
+/* The Slider widget reuses the Hero widget's `.wg-hero` class.
+ * We must remove the `animation` and `clear` in this instance or
+ * multiple slides can be `.active` at once. */
+.carousel-inner .wg-hero {
+  animation: none;
+  clear: none;
+}
+
+/*************************************************
+ *  Featurette Widget
+ **************************************************/
+
+.featurette {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #555;
+  text-align: center;
+}
+
+.featurette h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: 400;
+  color: #333;
+}
+
+.dark .featurette,
+.dark .featurette h3 {
+  color: #fff;
+}
+
+.featurette-icon {
+  display: block;
+  width: 100%;
+  color: $sta-primary;
+  font-size: 3rem;
+  text-align: center;
+}
+
+/*************************************************
+ *  About widget
+ **************************************************/
+
+#profile {
+  text-align: center;
+  padding: 5px 5px;
+  position: relative;
+}
+
+.avatar {
+  width: 250px;
+  height: 250px;
+  margin:  0 auto;
+  object-fit: cover;
+}
+
+// Use smaller avatar size in About widget on small devices.
+@include media-breakpoint-down(sm) {
+  .wg-about .avatar {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+.avatar-circle {
+  border-radius: 50%;
+}
+
+.avatar-square {
+  border-radius: 3px;
+}
+
+.portrait-title h2 {
+  font-size: 1.2em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}
+
+.portrait-title h3 {
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: rgba(0,0,0, 0.54);
+  margin: 0px 0 5px 0;
+}
+
+ul.network-icon {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#profile .network-icon {
+  margin-top: 20px;
+}
+
+.network-icon li {
+  margin-right: 10px;
+}
+
+.network-icon li:last-of-type {
+  margin-right: 0;
+}
+
+.network-icon li:hover {
+  transform: scale(1.2)
+}
+
+.big-icon {
+  font-size: 1.8rem;
+}
+
+ul.ul-interests li {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu {
+  list-style: none;
+}
+
+ul.ul-edu li {
+  position: relative;
+  padding: 0px 15px 4px 3px;
+}
+
+ul.ul-edu li .description p {
+  margin: 0;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.6);
+}
 
