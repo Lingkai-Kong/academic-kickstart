@@ -5,7 +5,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear in.
 
-title = "About me"
+title = "About Me"
+
+# [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["20px", "0", "20px", "0"]
+
+# [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["0px", "0", "0px", "0"]
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.

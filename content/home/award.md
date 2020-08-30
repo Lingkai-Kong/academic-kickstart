@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Award"
 subtitle = ""
 
 [design]
@@ -50,5 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 ---
-- Research Intern, **IQVIA**, Cambridge, June 2020 - Aug 2020 
+
+- Otto \& Jenny Krauss Fellowship, Georgia Tech, 2017
+- Outstanding undergraduate thesis, Southeast University (Top 5\%), 2017
+- Honorable Mention of the Mathematical Contest of Modeling (MCM), 2016
+- First Prize of China Undergraduate Mathematical Contest of Modeling (CUMCM) (Top5\%), 2015
+
+
 

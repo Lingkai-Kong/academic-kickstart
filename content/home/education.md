@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+title = "Education"
+# subtitle = "Education"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["5px", "0", "0px", "150px"]
+  padding = ["0px", "0", "0px", "150px"]
 
 [advanced]
  # Custom CSS. 
@@ -50,5 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 ---
-- Research Intern, **IQVIA**, Cambridge, June 2020 - Aug 2020 
-
+- **Georgia Institute of Technology**, Atlanta, USA <br>
+*Ph.D.* in Computational Science and Engineering,  2019 - present
+- **Southeast University**, Nanjing, China <br>
+*B.E.* in Information Engineering, 2013 - 2017

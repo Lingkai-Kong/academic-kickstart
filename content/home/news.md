@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-title = "Experience"
+title = "News"
 subtitle = ""
 
 [design]
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "white"
+  color = "navi"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["5px", "0", "0px", "150px"]
+  padding = ["0px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
----
-- Research Intern, **IQVIA**, Cambridge, June 2020 - Aug 2020 
+
+Welcome to the **Academic Kickstart** template!
+
+
 

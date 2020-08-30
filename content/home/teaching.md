@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 [design]
@@ -49,6 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 ---
-- Research Intern, **IQVIA**, Cambridge, June 2020 - Aug 2020 
+
+- Teaching Assistant, CSE8803 Deep Learning for Text Data, Fall, 2020
+- Teaching Assistant, CSE8803 Deep Learning for Text Data, Fall, 2019
+- Teaching Assistant, CS7641 Machine Learning (Online), Spring, 2019
+- Teaching Assistant, CS7641 Machine Learning (Online), Fall, 2018
+
 
