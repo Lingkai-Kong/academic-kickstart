@@ -40,12 +40,12 @@ title = "Education"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "0px", "0px"]
+  padding = ["0px", "0", "0px", "20px"]
 
 [advanced]
  # Custom CSS. 
- css_style = "width: 1200px; margin-left: 230px"
- 
+ # css_style = "width: 1200px; margin-left: 230px"
+ # css_style = "width: 1200px"
  # CSS class.
  css_class = ""
 +++
