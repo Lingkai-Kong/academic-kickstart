@@ -53,7 +53,7 @@ subtitle = ""
 ---
 
 - Calibrated Fine-Tuning for Pre-trained Language Models via Manifold Smoothing <br>
-**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Lye Jie, Tuo Zhao, Chao Zhang <br>
+**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Lyu Jie, Tuo Zhao, Chao Zhang <br>
 *Conference on Empirical Methods in Natural Language Processing*(**EMNLP**), 2020 <br>
 
 
