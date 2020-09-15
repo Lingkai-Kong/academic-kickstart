@@ -52,6 +52,11 @@ subtitle = ""
 +++
 ---
 
+- Calibrated Fine-Tuning for Pre-trained Language Models via Manifold Smoothing <br>
+**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Lye Jie, Tuo Zhao, Chao Zhang <br>
+*Conference on Empirical Methods in Natural Language Processing* （**EMNLP**), 2020 <br>
+
+
 - SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates <br>
 **Lingkai Kong**, Jimeng Sun and Chao Zhang <br>
 *International Conference on Machine Learning* (**ICML**), 2020 <br>
