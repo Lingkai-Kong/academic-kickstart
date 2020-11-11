@@ -52,10 +52,10 @@ subtitle = ""
 +++
 ---
 
-- Calibrated Fine-Tuning for Pre-trained Language Models via Manifold Smoothing <br>
-**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Lyu Jie, Tuo Zhao, Chao Zhang <br>
+- Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data <br>
+**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang <br>
 *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2020 <br>
-
+[[Paper]](https://arxiv.org/abs/2010.11506) [[Code]](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning) 
 
 - SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates <br>
 **Lingkai Kong**, Jimeng Sun and Chao Zhang <br>
