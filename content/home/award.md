@@ -56,8 +56,6 @@ subtitle = ""
 
 - Otto \& Jenny Krauss Fellowship, Georgia Tech, 2017
 - Outstanding undergraduate thesis, Southeast University (Top 5\%), 2017
-- Honorable Mention of the Mathematical Contest of Modeling (MCM), 2016
-- First Prize of China Undergraduate Mathematical Contest of Modeling (CUMCM) (Top5\%), 2015
 
 
 
