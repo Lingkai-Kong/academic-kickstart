@@ -53,7 +53,7 @@ subtitle = ""
 ---
 
 - When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting <br>
-Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2021 <br>
 [[Paper]](https://arxiv.org/abs/2106.03904) [[Code]](https://github.com/AdityaLab/EpiFNP)
 
