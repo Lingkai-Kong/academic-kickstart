@@ -1,14 +1,13 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Award"
+title = "Preprint"
 subtitle = ""
 
 [design]
@@ -47,15 +46,13 @@ subtitle = ""
  # css_style = "width: 1200px; margin-left: 230px"
  # css_style = "width: 1200px"
  # CSS class.
- css_style = ""
- 
+ css_syle = ""
  # CSS class.
  css_class = ""
 +++
 ---
 
-- Otto \& Jenny Krauss Fellowship, Georgia Tech, 2017
-- Outstanding undergraduate thesis, Southeast University (Top 5\%), 2017
-
-
+- CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
+[[Paper]](https://arxiv.org/abs/2109.07438) [[Code]](https://github.com/adityalab/camul)
 
