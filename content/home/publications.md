@@ -52,6 +52,11 @@ subtitle = ""
 +++
 ---
 
+- When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2021 <br>
+[[Paper]](https://arxiv.org/abs/2106.03904) [[Code]](https://github.com/AdityaLab/EpiFNP)
+
 - Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data <br>
 **Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang <br>
 *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2020 <br>
