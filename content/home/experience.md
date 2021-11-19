@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -53,5 +53,9 @@ subtitle = ""
  css_class = ""
 +++
 ---
-- Research Intern, **IQVIA**, Cambridge, June 2020 - Aug 2020 
-
+- **Amazon**, Seattle, May 2021 - Nov 2021 <br>
+Applied Scientist Intern, Product Graph Team <br>
+Mentor: Xiang He, Chenwei Zhang; Manager: Luna Xin Dong <br> 
+- **IQVIA**, Cambridge, June 2020 - Aug 2020 <br>
+Research Intern, Analytics Center of Excellence <br>
+Mentor: Danica (Cao) Xiao
