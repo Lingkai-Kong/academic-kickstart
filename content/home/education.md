@@ -52,6 +52,7 @@ title = "Education"
 ---
 - **Georgia Institute of Technology**, Atlanta, USA <br>
 *Ph.D.* in Computational Science and Engineering,  2019 - present
-
+- **Georgia Institute of Technology**, Atlanta, USA <br>
+*Ph.D.* in Electrical and Computer Engineering (transferred to CSE),  2017 - 2019
 - **Southeast University**, Nanjing, China <br>
 *B.E.* in Information Engineering, 2013 - 2017
