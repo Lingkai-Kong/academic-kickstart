@@ -52,6 +52,11 @@ subtitle = ""
 +++
 ---
 
+- CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
+*The Web Conference* (**WWW**), 2022 <br>
+[[Paper]](https://arxiv.org/abs/2109.07438) [[Code]](https://github.com/adityalab/camul)
+
 - When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting <br>
 Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2021 <br>

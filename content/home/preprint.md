@@ -52,7 +52,7 @@ subtitle = ""
 +++
 ---
 
-- CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting <br>
-Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
-[[Paper]](https://arxiv.org/abs/2109.07438) [[Code]](https://github.com/adityalab/camul)
+- ATM: An Uncertainty-aware Active Self-training Framework for Label-efficient Text Classification <br>
+Yue Yu, **Lingkai Kong**, Jieyu Zhang, Rongzhi Zhang, Chao Zhang <br>
+[[Paper]](https://arxiv.org/abs/2112.08787) 
 
