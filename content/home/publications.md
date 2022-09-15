@@ -51,19 +51,27 @@ subtitle = ""
  css_class = ""
 +++
 ---
+-End-to-End Stochastic Programming with Energy-based Model <br>
+**Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022
+
+- AcTune: Uncertainty-Aware Active Self-Training for Active Fine-Tuning of Pretrained Language Models <br>
+Yue Yu, **Lingkai Kong**, Jieyu Zhang, Rongzhi Zhang, Chao Zhang <br>
+*Annual Conference of the North American Chapter of the Association for Computational Linguistics* (**NAACL**), 2022 <br>
+[[Paper]](https://arxiv.org/abs/2112.08787) [[Code]](https://github.com/yueyu1030/actune)
 
 - CAMul: Calibrated and Accurate Multi-view Time-Series Forecasting <br>
-Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
 *The Web Conference* (**WWW**), 2022 <br>
 [[Paper]](https://arxiv.org/abs/2109.07438) [[Code]](https://github.com/adityalab/camul)
 
 - When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting <br>
-Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang, B Aditya Prakash <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2021 <br>
 [[Paper]](https://arxiv.org/abs/2106.03904) [[Code]](https://github.com/AdityaLab/EpiFNP)
 
 - Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data <br>
-**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang <br>
+**Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang <br>
 *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2020 <br>
 [[Paper]](https://arxiv.org/abs/2010.11506) [[Code]](https://github.com/Lingkai-Kong/Calibrated-BERT-Fine-Tuning) 
 

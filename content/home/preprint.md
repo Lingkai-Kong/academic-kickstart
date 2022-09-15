@@ -52,7 +52,7 @@ subtitle = ""
 +++
 ---
 
-- ATM: An Uncertainty-aware Active Self-training Framework for Label-efficient Text Classification <br>
-Yue Yu, **Lingkai Kong**, Jieyu Zhang, Rongzhi Zhang, Chao Zhang <br>
-[[Paper]](https://arxiv.org/abs/2112.08787) 
+- PROFHIT: Probabilistic Robust Forecasting for Hierarchical Time-series <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
+[[Paper]](https://arxiv.org/abs/2206.07940) 
 
