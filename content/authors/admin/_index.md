@@ -81,7 +81,7 @@ My research spans across machine learning, natural language processing and data 
 I am particularly interested in making *trustworthy* intelligent system in *open-world* settings. 
 Toward this goal, I am currently working on the following research thrusts:
 -    Uncertainty quantification and out-of-distribution detection in deep learning;
--    Out-of-distribution generalization and zero shot learning;
--    Application of uncertainty-aware deep learning in natural language processing and healthcare.
+-    Decision making under uncertainty;
+-    Application of uncertainty-aware deep learning in natural language processing and public health.
 
 **Email**: lkkong [at] gatech [dot] edu
