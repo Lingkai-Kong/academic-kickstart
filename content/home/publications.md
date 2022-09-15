@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 ---
--End-to-End Stochastic Programming with Energy-based Model <br>
+- End-to-End Stochastic Programming with Energy-based Model <br>
 **Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022
 
