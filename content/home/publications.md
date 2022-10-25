@@ -53,7 +53,8 @@ subtitle = ""
 ---
 - End-to-End Stochastic Programming with Energy-based Model <br>
 **Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>
-*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2022 <span style="color:blue">**(oral)**</span>.
+
 
 - AcTune: Uncertainty-Aware Active Self-Training for Active Fine-Tuning of Pretrained Language Models <br>
 Yue Yu, **Lingkai Kong**, Jieyu Zhang, Rongzhi Zhang, Chao Zhang <br>
