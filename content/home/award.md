@@ -54,6 +54,7 @@ subtitle = ""
 +++
 ---
 
+- NeurIPS Scholar Award, 2022
 - Otto \& Jenny Krauss Fellowship, Georgia Tech, 2017
 - Outstanding undergraduate thesis, Southeast University (Top 5\%), 2017
 
