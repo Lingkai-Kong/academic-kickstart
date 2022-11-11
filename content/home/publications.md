@@ -71,6 +71,12 @@ Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2021 <br>
 [[Paper]](https://arxiv.org/abs/2106.03904) [[Code]](https://github.com/AdityaLab/EpiFNP)
 
+- Data Efficient Estimation for Quality of Transmission Through Active Learning in Fiber-Wireless Integrated Network <br>
+Shuang Yao, Chin-Wei Hsu, **Lingkai Kong**, Qi Zhou, Shuyi Shen, Rui Zhang, Shang-Jen Su, Yahya Alfadhli, and Gee-Kung Chang <br>
+*Journal of Lightwave Technology*, Vol. 39, No.18, pp. 5691-5698, Sept. 2021 <br>
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9462465)
+
+
 - Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data <br>
 **Lingkai Kong**, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang <br>
 *Conference on Empirical Methods in Natural Language Processing* (**EMNLP**), 2020 <br>
