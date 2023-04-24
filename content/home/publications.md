@@ -51,6 +51,12 @@ subtitle = ""
  css_class = ""
 +++
 ---
+
+- Autoregressive Diffusion Model for Graph Generation <br>
+**Lingkai Kong**, Jiaming Cui, Haotian Sun, Yuchen Zhuang, B Aditya Prakash and Chao Zhang <br>
+*International Conference on Machine Learning* (**ICML**), 2023 **<span style="color:red"></span>** <br>
+[[Paper]]() [[Code]]()
+
 - End-to-End Stochastic Optimization with Energy-based Model <br>
 **Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2022 **<span style="color:red">(Selected as Oral)</span>** <br>
