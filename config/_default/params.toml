@@ -296,3 +296,5 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+google_fonts = "Roboto:ital,wght@0,400;0,700;1,400;1,700"

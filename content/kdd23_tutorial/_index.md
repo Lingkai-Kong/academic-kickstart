@@ -15,11 +15,11 @@ Deep neural networks (DNNs) have achieved enormous success in a wide range of do
 
 ## Tutorial Outline
 
-1. **Introduction (15 min)**
-2. **UQ of predictive models (50 min)**
-3. **Exploitation of uncertainty estimates (50 min)**
-4. **Application of uncertainty-aware DNNs (50 min)**
-5. **Challenges and future directions (15 min)**
+1. Introduction (15 min)
+2. UQ of predictive models (50 min)
+3. Exploitation of uncertainty estimates (50 min)
+4. Application of uncertainty-aware DNNs (50 min)
+5. Challenges and future directions (15 min)
 
 ## Materials
 Coming soon...
