@@ -55,7 +55,7 @@ subtitle = ""
 - Uncertainty Quantification in Deep Learning <br>
 **Lingkai Kong**, Harshavardhan Kamarthi, Peng Chen, B Aditya Prakash and Chao Zhang <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023 (Tutorial) **<span style="color:red"></span>** <br>
-[[Tutorial page]]() 
+[[Tutorial page]](https://lingkai-kong.com/kdd_tutorial/) 
 
 
 - Autoregressive Diffusion Model for Graph Generation <br>
