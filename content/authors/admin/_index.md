@@ -82,6 +82,6 @@ I am particularly interested in making *trustworthy* intelligent system in *open
 Toward this goal, I am currently working on the following research thrusts:
 -    Uncertainty quantification and out-of-distribution detection in deep learning;
 -    Decision making under uncertainty;
--    Application of uncertainty-aware deep learning in public health, scientiific discovery, and natural language processing.
+-    Application of uncertainty-aware deep learning in public health, scientific discovery, and natural language processing.
 
 **Email**: lkkong [at] gatech [dot] edu
