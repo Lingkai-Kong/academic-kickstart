@@ -1,5 +1,5 @@
 ---
-title: "Your Tutorial Title"
+title: "KDD'23 Tutorial: Uncertainty Quantification in Deep Learning"
 date: "2023-05-05"
 draft: false
 menu:
@@ -14,40 +14,40 @@ Deep neural networks (DNNs) have achieved enormous success in a wide range of do
 
 ## Tutorial Outline
 
+## Tutorial Outline
+
 1. **Introduction (15 min)**
-   - Why uncertainty quantification (UQ) for DNNs 
+   - Why uncertainty quantification (UQ) for DNNs
    - Different sources of uncertainty
    - Evaluation metrics
 
 2. **UQ of predictive models (50 min)**
-   - Deep Ensemble 
+   - Deep Ensemble
    - Bayesian neural network
-     - Variational inference
-     - Markov chain Monte Carlo (MCMC)
-     - Laplace approximation 
    - Neural Gaussian process
-   - Stochastic dynamical system inspired DNN 
+   - Stochastic dynamical system inspired DNN
    - Post-hoc calibration methods
-   - Conformal prediction 
+   - Conformal prediction
 
 3. **Exploitation of uncertainty estimates (50 min)**
-   - Leveraging uncertainty for label-efficient learning, e.g., active learning and active self-training 
-   - Uncertainty-driven continual learning 
+   - Leveraging uncertainty for label-efficient learning, e.g., active learning and active self-training
+   - Uncertainty-driven continual learning
    - Robust decision-making under uncertainty
-     - Stochastic decision-focused learning
-     - Uncertainty for reinforcement learning 
-   - Optimal experimental design 
+   - Optimal experimental design
 
 4. **Application of uncertainty-aware DNNs (50 min)**
-   - UQ for public health 
-   - Self-driving cars and robotics 
-   - Climate change 
-   - Scientific ML/discovery 
+   - UQ for public health and medical diagnosis
+   - Self-driving cars and robotics
+   - Climate change
+   - Scientific ML/discovery
 
 5. **Challenges and future directions (15 min)**
    - Handling distribution shifts and lack of ground-truth
    - UQ for pre-trained foundation models
    - UQ for complex dynamics and long-term forecasting
+
+
+
 
 
 ## Presenters
