@@ -57,11 +57,18 @@ subtitle = ""
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**), 2023 (Conference Tutorial) **<span style="color:red"></span>** <br>
 [[Tutorial page]](https://lingkai-kong.com/kdd23_tutorial/) 
 
+- When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting <br>
+Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**) **<span style="color:red"></span>** <br>
+
+- DyGen: Fine-Tuning Language Models with Noisy Labels by Dynamics-Enhanced Generative Modeling <br>
+Yuchen Zhuang, Yue Yu, **Lingkai Kong**, Xiang Chen and Chao Zhang <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**) **<span style="color:red"></span>** <br>
 
 - Autoregressive Diffusion Model for Graph Generation <br>
 **Lingkai Kong**, Jiaming Cui, Haotian Sun, Yuchen Zhuang, B Aditya Prakash and Chao Zhang <br>
 *International Conference on Machine Learning* (**ICML**), 2023 **<span style="color:red"></span>** <br>
-[[Paper]]() [[Code]]()
+
 
 - End-to-End Stochastic Optimization with Energy-based Model <br>
 **Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>
