@@ -58,4 +58,8 @@ subtitle = ""
 - Two Birds with One Stone: Enhancing Calibration and Interpretability with Graph Functional Neural Process <br>
 **Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang and Chao Zhang
 
+- MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction <br>
+Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang
 
+- AdaPlanner: Adaptive Planning from Feedback with Language Models <br>
+Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang
