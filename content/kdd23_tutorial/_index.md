@@ -22,7 +22,7 @@ Deep neural networks (DNNs) have achieved enormous success in a wide range of do
 5. Challenges and future directions (15 min)
 
 ## Materials
-Coming soon...
+[[Link]](https://www.dropbox.com/scl/fo/gl1by69yjpjvpglabkh73/h?rlkey=m09c6h2yssrt2ubf7eq3j77bl&dl=0) 
 
 
 ## Presenters
