@@ -52,7 +52,10 @@ subtitle = ""
 +++
 ---
 
-- PROFHIT: Probabilistic Robust Forecasting for Hierarchical Time-series <br>
-Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
-[[Paper]](https://arxiv.org/abs/2206.07940) 
+- DF^2: Distribution-Free Decision-Focused Learning <br>
+**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang 
+
+- Two Birds with One Stone: Enhancing Calibration and Interpretability with Graph Functional Neural Process <br>
+**Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang and Chao Zhang
+
 
