@@ -58,7 +58,7 @@ Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang <br>
 [[Paper]](https://arxiv.org/abs/2305.16653)
 
 - MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction <br>
-Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang
+Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang <br>
 *NeurIPS Workshop on AI4Science*, 2023 <br>
 [[Paper]](https://arxiv.org/abs/2306.10060)
 
