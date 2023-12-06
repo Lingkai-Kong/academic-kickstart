@@ -74,7 +74,7 @@ Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B
 
 - DyGen: Fine-Tuning Language Models with Noisy Labels by Dynamics-Enhanced Generative Modeling <br>
 Yuchen Zhuang, Yue Yu, **Lingkai Kong**, Xiang Chen and Chao Zhang <br>
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**) **<span style="color:red"></span>** <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**), 2023 <br>
 [[Paper]](https://arxiv.org/abs/2305.19395)
 
 - Autoregressive Diffusion Model for Graph Generation <br>
