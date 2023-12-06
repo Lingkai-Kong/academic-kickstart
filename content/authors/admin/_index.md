@@ -75,13 +75,16 @@ user_groups:
 ---
 
 Welcome to Lingkai Kong (孔令恺)'s homepage! I am a Ph.D student in the [School of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I am working with [Prof. Chao Zhang](http://chaozhang.org/). 
-I recieved my B.E. in [Information Engineering](https://radio.seu.edu.cn/newenglish/) from [Southeast University](https://www.seu.edu.cn/english/main.htm).
+I recieved my B.E. in [Information Engineering](https://radio.seu.edu.cn/newenglish/) from [Southeast University](https://www.seu.edu.cn/english/main.htm). 
 
-My research spans across machine learning, natural language processing and data mining. 
-I am particularly interested in making *trustworthy* intelligent system in *open-world* settings. 
-Toward this goal, I am currently working on the following research thrusts:
--    Uncertainty quantification and out-of-distribution detection in deep learning;
--    Decision making under uncertainty;
--    Application of uncertainty-aware deep learning in public health, scientific discovery, and natural language processing.
+
+My research focuses on developing *reliable* and *trustworthy* data-driven solutions for high-stake decision-making scenarios. Specifically, I work on the following areas:
+
+- Uncertainty quantification of deep neural networks [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904)].  
+- Controllable generation for decision-making [[ICML'23]](https://arxiv.org/abs/2307.08849).  
+- Aligning learning with optimization for decision-making [[NeurIPS'22]((https://arxiv.org/abs/2211.13837)), [Arxiv](https://arxiv.org/abs/2308.05889)].
+
+
+On the practical side, I am passionate about  interdisciplinary applications: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)], Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [NeurIPS-AI4Science'23](https://arxiv.org/abs/2306.10060)] and Natural Language Processing [[KDD'23](https://arxiv.org/abs/2305.19395), [NAACL'22](https://arxiv.org/abs/2112.08787)]
 
 **Email**: lkkong [at] gatech [dot] edu

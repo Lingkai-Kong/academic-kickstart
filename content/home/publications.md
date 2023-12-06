@@ -52,6 +52,16 @@ subtitle = ""
 +++
 ---
 
+- AdaPlanner: Adaptive Planning from Feedback with Language Models <br>
+Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang <br>
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2023 <br>
+[[Paper]](https://arxiv.org/abs/2305.16653)
+
+- MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction <br>
+Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang
+*NeurIPS Workshop on AI4Science*, 2023 <br>
+[[Paper]](https://arxiv.org/abs/2306.10060)
+
 - Uncertainty Quantification in Deep Learning <br>
 **Lingkai Kong**, Harshavardhan Kamarthi, Peng Chen, B Aditya Prakash and Chao Zhang <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**), 2023 (Conference Tutorial) **<span style="color:red"></span>** <br>
@@ -60,15 +70,17 @@ subtitle = ""
 - When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting <br>
 Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**) **<span style="color:red"></span>** <br>
+[[Paper]](https://arxiv.org/abs/2206.07940)
 
 - DyGen: Fine-Tuning Language Models with Noisy Labels by Dynamics-Enhanced Generative Modeling <br>
 Yuchen Zhuang, Yue Yu, **Lingkai Kong**, Xiang Chen and Chao Zhang <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**) **<span style="color:red"></span>** <br>
+[[Paper]](https://arxiv.org/abs/2305.19395)
 
 - Autoregressive Diffusion Model for Graph Generation <br>
 **Lingkai Kong**, Jiaming Cui, Haotian Sun, Yuchen Zhuang, B Aditya Prakash and Chao Zhang <br>
 *International Conference on Machine Learning* (**ICML**), 2023 **<span style="color:red"></span>** <br>
-
+[[Paper]](https://arxiv.org/abs/2307.08849)
 
 - End-to-End Stochastic Optimization with Energy-based Model <br>
 **Lingkai Kong**, Jiaming Cui, Yuchen Zhuang, Rui Feng, B Aditya Prakash and Chao Zhang <br>

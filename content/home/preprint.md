@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Preprint"
+title = "Preprints"
 subtitle = ""
 
 [design]
@@ -53,13 +53,9 @@ subtitle = ""
 ---
 
 - DF^2: Distribution-Free Decision-Focused Learning <br>
-**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang 
+**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
+[[Paper]](https://arxiv.org/abs/2308.05889)
 
 - Two Birds with One Stone: Enhancing Calibration and Interpretability with Graph Functional Neural Process <br>
 **Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang and Chao Zhang
 
-- MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction <br>
-Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang
-
-- AdaPlanner: Adaptive Planning from Feedback with Language Models <br>
-Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang
