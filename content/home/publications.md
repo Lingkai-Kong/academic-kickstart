@@ -69,7 +69,7 @@ Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao 
 
 - When Rigidity Hurts: Soft Consistency Regularization for Probabilistic Hierarchical Time Series Forecasting <br>
 Harshavardhan Kamarthi, **Lingkai Kong**, Alexander Rodríguez, Chao Zhang and B Aditya Prakash <br>
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**)， 2023 <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (**SIGKDD**), 2023 <br>
 [[Paper]](https://arxiv.org/abs/2206.07940)
 
 - DyGen: Fine-Tuning Language Models with Noisy Labels by Dynamics-Enhanced Generative Modeling <br>
