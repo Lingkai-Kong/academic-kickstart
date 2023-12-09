@@ -85,6 +85,6 @@ My research focuses on developing *reliable* and *trustworthy* data-driven solut
 - Aligning learning with optimization for decision-making [[NeurIPS'22]((https://arxiv.org/abs/2211.13837)), [Arxiv](https://arxiv.org/abs/2308.05889)].
 
 
-On the practical side, I am passionate about  interdisciplinary applications: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)], Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [NeurIPS-AI4Science'23](https://arxiv.org/abs/2306.10060)] and Natural Language Processing [[KDD'23](https://arxiv.org/abs/2305.19395), [NAACL'22](https://arxiv.org/abs/2112.08787)]
+On the practical side, I am passionate about  interdisciplinary applications: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)], Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [NeurIPS-AI4Science'23](https://arxiv.org/abs/2306.10060)] and Natural Language Processing [[KDD'23](https://arxiv.org/abs/2305.19395), [NAACL'22](https://arxiv.org/abs/2112.08787), [NeurIPS'23](https://arxiv.org/abs/2305.16653)]
 
 **Email**: lkkong [at] gatech [dot] edu
