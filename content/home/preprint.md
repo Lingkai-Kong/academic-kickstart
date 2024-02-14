@@ -56,6 +56,5 @@ subtitle = ""
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
 [[Paper]](https://arxiv.org/abs/2308.05889)
 
-- Two Birds with One Stone: Enhancing Calibration and Interpretability with Graph Functional Neural Process <br>
-**Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang and Chao Zhang
+
 

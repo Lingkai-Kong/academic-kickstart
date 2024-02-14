@@ -51,6 +51,9 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- - Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process <br>
+**Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang, Wenhao Mu and Chao Zhang
+*International Conference on Artificial Intelligence and Statistics* (**AISTATS**), 2024 <br>
 
 - AdaPlanner: Adaptive Planning from Feedback with Language Models <br>
 Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang <br>
