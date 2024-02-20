@@ -52,6 +52,11 @@ subtitle = ""
 +++
 ---
 
+- 
+- TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
+Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
+[[Paper]](https://arxiv.org/abs/2401.13849)
+
 - DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
 [[Paper]](https://arxiv.org/abs/2308.05889)
