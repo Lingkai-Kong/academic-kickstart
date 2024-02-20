@@ -52,7 +52,6 @@ subtitle = ""
 +++
 ---
 
-- 
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
 [[Paper]](https://arxiv.org/abs/2401.13849)
