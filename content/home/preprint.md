@@ -53,16 +53,16 @@ subtitle = ""
 ---
 - Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
 **Lingkai Kong**, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
-[[Paper]](https://arxiv.org/abs/2402.18012)
+[[Arxiv]](https://arxiv.org/abs/2402.18012)
 
 
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
-[[Paper]](https://arxiv.org/abs/2401.13849)
+[[Arxiv]](https://arxiv.org/abs/2401.13849)
 
 - DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
-[[Paper]](https://arxiv.org/abs/2308.05889)
+[[Arxiv]](https://arxiv.org/abs/2308.05889)
 
 
 
