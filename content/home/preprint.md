@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Preprints & In Submission"
+title = "Preprints"
 subtitle = ""
 
 [design]
@@ -52,7 +52,7 @@ subtitle = ""
 +++
 ---
 - Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
-**Lingkai Kong**, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
+**Lingkai Kong**, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, <br> Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2402.18012)
 
 
