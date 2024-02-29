@@ -51,6 +51,10 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
+**Lingkai Kong**, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
+[[Paper]](https://arxiv.org/abs/2402.18012)
+
 
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
