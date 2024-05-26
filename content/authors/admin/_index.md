@@ -14,7 +14,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Geogira Institue of Technology
+- name: Georgia Institue of Technology
 #   url: ""
 # school:
 # - name: School of Computational Science and Engineering
