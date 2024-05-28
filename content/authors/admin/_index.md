@@ -14,7 +14,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institue of Technology
+- name: Georgia Institute of Technology
 #   url: ""
 # school:
 # - name: School of Computational Science and Engineering
