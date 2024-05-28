@@ -78,7 +78,7 @@ Welcome to Lingkai Kong (孔令恺)'s homepage! I am a Ph.D student in the [Scho
 I recieved my B.E. in [Information Engineering](https://radio.seu.edu.cn/newenglish/) from [Southeast University](https://www.seu.edu.cn/english/main.htm). 
 
 
-My research focuses on developing *reliable* and *trustworthy* data-driven solutions for high-stake decision-making scenarios. Specifically, I work on the following areas:
+My research focuses on developing *reliable* and *trustworthy* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
 
 - Uncertainty quantification of deep neural networks [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904)].  
 - Controllable generation for decision-making [[ICML'23]](https://arxiv.org/abs/2307.08849).  
