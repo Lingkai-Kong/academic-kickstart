@@ -34,7 +34,7 @@ social:
   link: 'mailto:lkkong@gatech.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Kong_GT
+  link: https://twitter.com/konglingkai_AI
 - icon: github
   icon_pack: fab
   link: https://github.com/Lingkai-Kong
