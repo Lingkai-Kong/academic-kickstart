@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 ---
-- Aligning Large Language Models with Representation Editing: A Control Perspective
+- Aligning Large Language Models with Representation Editing: A Control Perspective <br>
 **Lingkai Kong**\*, Haorui Wang\*, Wenhao Mu\*, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2406.05954)
 
