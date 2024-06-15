@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: Harvard University
 #   url: ""
 # school:
 # - name: School of Computational Science and Engineering
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, natural language processing and data mining.
-
+bio: My research focuses on machine learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,11 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to Lingkai Kong (孔令恺)'s homepage! I am a Ph.D student in the [School of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). I am working with [Prof. Chao Zhang](http://chaozhang.org/). 
-I recieved my B.E. in [Information Engineering](https://radio.seu.edu.cn/newenglish/) from [Southeast University](https://www.seu.edu.cn/english/main.htm). 
-
-
-My research focuses on developing *reliable* and *trustworthy* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
+Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Harvard, advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I obtained my Ph.D. from Georgia Institute of Technology. My research focuses on developing *reliable* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
 
 - Uncertainty quantification of deep neural networks [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)].  
 - Controllable generation for decision-making [[ICML'23](https://arxiv.org/abs/2307.08849), [Arxiv](https://arxiv.org/abs/2402.18012)].  
