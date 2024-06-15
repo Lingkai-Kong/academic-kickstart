@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Harvard, advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I obtained my Ph.D. from Georgia Institute of Technology. 
+Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Harvard, advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I obtained my Ph.D. in Computational Science and Engineering from Georgia Institute of Technology. 
 
 
 My research focuses on developing *reliable* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
