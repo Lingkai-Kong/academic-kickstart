@@ -51,7 +51,7 @@ title = "Education"
 +++
 ---
 - **Georgia Institute of Technology**, Atlanta, USA <br>
-*Ph.D.* in Computational Science and Engineering,  2019 - 2024 (Expected)
+*Ph.D.* in Computational Science and Engineering,  2019 - 2024 
 - **Georgia Institute of Technology**, Atlanta, USA <br>
 *Ph.D.* in Electrical and Computer Engineering (transferred to CSE), 2017 - 2019
 - **Southeast University**, Nanjing, China <br>

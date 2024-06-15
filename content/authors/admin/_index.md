@@ -73,7 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Harvard, advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I obtained my Ph.D. from Georgia Institute of Technology. My research focuses on developing *reliable* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
+Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Harvard, advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I obtained my Ph.D. from Georgia Institute of Technology. 
+
+
+My research focuses on developing *reliable* data-driven solutions for high-stakes decision-making scenarios. Specifically, I work on the following areas:
 
 - Uncertainty quantification of deep neural networks [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)].  
 - Controllable generation for decision-making [[ICML'23](https://arxiv.org/abs/2307.08849), [Arxiv](https://arxiv.org/abs/2402.18012)].  
