@@ -63,12 +63,12 @@ Haoxin Liu, Harshavardhan Kamarthi, **Lingkai Kong**, Zhiyuan Zhao, Chao Zhang a
 [[Paper]](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)
 
 - AdaPlanner: Adaptive Planning from Feedback with Language Models <br>
-Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai, Chao Zhang <br>
+Haotian Sun, Yuchen Zhuang, **Lingkai Kong**, Bo Dai and Chao Zhang <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2023 <br>
 [[Paper]](https://arxiv.org/abs/2305.16653)
 
 - MUBen: Benchmarking the Uncertainty of Pre-Trained Models for Molecular Property Prediction <br>
-Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu, Chao Zhang <br>
+Yinghao Li, **Lingkai Kong**, Yuanqi Du, Yue Yu, Yuchen Zhuang, Wenhao Mu and Chao Zhang <br>
 *Transactions on Machine Learning Research* (**TMLR**), *NeurIPS Workshop on AI4Science*, 2023 <br>
 [[Paper]](https://arxiv.org/abs/2306.10060)
 
