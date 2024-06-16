@@ -51,6 +51,10 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <br>
+Haoxin Liu, Harshavardhan Kamarthi, **Lingkai Kong**, Zhiyuan Zhao, Chao Zhang and B. Aditya Prakash <br>
+*International Conference on Machine Learning* (**ICML**), 2024
+
 - Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process <br>
 **Lingkai Kong**\*, Haotian Sun\*, Yuchen Zhuang, Haorui Wang, Wenhao Mu and Chao Zhang <br>
 *International Conference on Artificial Intelligence and Statistics* (**AISTATS**), 2024 <br>
