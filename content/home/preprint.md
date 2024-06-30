@@ -65,7 +65,7 @@ subtitle = ""
 [[Arxiv]](https://arxiv.org/abs/2308.05889)
 
 - Efficient Evolutionary Search Over Chemical Space with Large Language Models <br>
-Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Streith-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
+Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2406.16976)
 
 
