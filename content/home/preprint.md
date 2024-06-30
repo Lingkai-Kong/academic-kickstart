@@ -64,6 +64,15 @@ subtitle = ""
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2308.05889)
 
+- Efficient Evolutionary Search Over Chemical Space with Large Language Models <br>
+Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Streith-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
+[[Arxiv]](https://arxiv.org/abs/2406.16976)
+
+
+- Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis <br>
+Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash
+[[Arxiv]](https://arxiv.org/abs/2406.08627)
+
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2401.13849)
