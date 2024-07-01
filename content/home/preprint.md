@@ -70,7 +70,7 @@ Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix St
 
 
 - Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis <br>
-Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash
+Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash <br>
 [[Arxiv]](https://arxiv.org/abs/2406.08627)
 
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
