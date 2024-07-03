@@ -85,4 +85,4 @@ My research focuses on developing *reliable* data-driven solutions for high-stak
 
 On the practical side, I am passionate about  interdisciplinary applications: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)] and Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [TMLR](https://arxiv.org/abs/2306.10060), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)].
 
-**Email**: lkkong [at] gatech [dot] edu
+**Email**: lingkaikong [at] g [dot] harvard [dot] edu
