@@ -52,8 +52,8 @@ subtitle = ""
 +++
 ---
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
-Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <be>
-*Conference On Language Modeling* (**COLM**), 2024
+Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
+*Conference On Language Modeling* (**COLM**), 2024 <br>
 [[Paper]](https://arxiv.org/abs/2401.13849)
 
 - Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning <br>
