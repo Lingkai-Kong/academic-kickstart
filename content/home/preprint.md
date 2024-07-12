@@ -73,9 +73,6 @@ Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix St
 Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash <br>
 [[Arxiv]](https://arxiv.org/abs/2406.08627)
 
-- TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
-Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
-[[Arxiv]](https://arxiv.org/abs/2401.13849)
 
 
 
