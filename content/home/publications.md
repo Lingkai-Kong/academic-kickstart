@@ -51,6 +51,11 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- Aligning Large Language Models with Representation Editing: A Control Perspective <br>
+**Lingkai Kong**\*, Haorui Wang\*, Wenhao Mu\*, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang <br>
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2024 <br>
+[[Paper]](https://arxiv.org/abs/2406.05954)
+
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
 *Conference On Language Modeling* (**COLM**), 2024 <br>
