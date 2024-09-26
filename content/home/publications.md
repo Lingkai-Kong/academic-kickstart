@@ -56,6 +56,12 @@ subtitle = ""
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024 <br>
 [[Paper]](https://arxiv.org/abs/2406.05954)
 
+
+- Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis <br>
+Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash <be>
+*Advances in Neural Information Processing Systems* (**NeurIPS**), 2024 <br>
+[[Paper]](https://arxiv.org/abs/2406.08627)
+
 - TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance <br>
 Haorui Wang, Rongzhi Zhang, Yinghao Li, **Lingkai Kong**, Yuchen Zhuang, Xiusi Chen, Chao Zhang <br>
 *Conference On Language Modeling* (**COLM**), 2024 <br>
