@@ -58,7 +58,7 @@ subtitle = ""
 
 
 - Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis <br>
-Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash <be>
+Haoxin Liu, Shangqing Xu, Zhiyuan Zhao, **Lingkai Kong**, Harshavardhan Kamarthi, Aditya B Sasanur, Megha Sharma, Jiaming Cui, Qingsong Wen, Chao Zhang and B Aditya Prakash <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024 <br>
 [[Paper]](https://arxiv.org/abs/2406.08627)
 
