@@ -64,6 +64,14 @@ subtitle = ""
 Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2406.16976)
 
+- Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards <br>
+Shresth Verma, Niclas Boehmer, **Lingkai Kong**, Milind Tambe <br>
+[[Arxiv]](https://arxiv.org/abs/2408.12112) 
+
+- What is the Right Notion of Distance between Predict-then-Optimize Tasks? <br>
+Paula Rodriguez-Diaz, **Lingkai Kong**, Kai Wang, David Alvarez-Melis, Milind Tambe <br>
+[[Arxiv]](https://arxiv.org/abs/2409.06997)
+
 
 
 
