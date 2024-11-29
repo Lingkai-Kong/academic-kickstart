@@ -52,9 +52,8 @@ subtitle = ""
 +++
 ---
 - Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
-**Lingkai Kong**\*, Yuanqi Du\*, Wenhao Mu\*, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, <br> Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
+**Lingkai Kong**\*, Yuanqi Du\*, Wenhao Mu\*, Kirill Neklyudov, Valentin De Bortol, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2402.18012)
-
 
 - DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
