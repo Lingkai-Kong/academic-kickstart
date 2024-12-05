@@ -80,7 +80,7 @@ My research focuses on developing *reliable* data-driven solutions for high-stak
 
 - Uncertainty quantification of deep neural networks [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)].  
 - Controllable generative models [[ICML'23](https://arxiv.org/abs/2307.08849),[NeurIPS'24](https://arxiv.org/abs/2406.05954), [Arxiv](https://arxiv.org/abs/2402.18012)].  
-- Aligning learning with optimization for decision-making [[NeurIPS'22]((https://arxiv.org/abs/2211.13837)), [Arxiv](https://arxiv.org/abs/2308.05889)].
+- Aligning learning with optimization for decision-making [[NeurIPS'22](https://arxiv.org/abs/2211.13837), [Arxiv](https://arxiv.org/abs/2308.05889)].
 
 
 On the practical side, I am passionate about  interdisciplinary applications: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)] and Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [TMLR](https://arxiv.org/abs/2306.10060), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)].
