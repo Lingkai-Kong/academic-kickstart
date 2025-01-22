@@ -51,6 +51,11 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
+**Lingkai Kong**\*, Yuanqi Du\*, Wenhao Mu\*, Kirill Neklyudov, Valentin De Bortol, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
+*International Conference on Artificial Intelligence and Statistics* (**AISTATS**), 2025 <br>
+[[Paper]](https://arxiv.org/abs/2402.18012)
+
 - Aligning Large Language Models with Representation Editing: A Control Perspective <br>
 **Lingkai Kong**\*, Haorui Wang\*, Wenhao Mu\*, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang <br>
 *Advances in Neural Information Processing Systems* (**NeurIPS**), 2024 <br>
