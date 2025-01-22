@@ -51,6 +51,11 @@ subtitle = ""
  css_class = ""
 +++
 ---
+- Efficient Evolutionary Search Over Chemical Space with Large Language Models <br>
+Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
+*International Conference on Representation Learning* (**ICLR**), 2025 <br>
+[[Paper]](https://arxiv.org/abs/2406.16976)
+
 - Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints <br>
 **Lingkai Kong**\*, Yuanqi Du\*, Wenhao Mu\*, Kirill Neklyudov, Valentin De Bortol, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P. Gomes, Chao Zhang <br>
 *International Conference on Artificial Intelligence and Statistics* (**AISTATS**), 2025 <br>
