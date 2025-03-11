@@ -52,6 +52,10 @@ subtitle = ""
 +++
 ---
 
+- Robust Optimization with Diffusion Models for Green Security <br>
+**Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe <br>
+[[Arxiv]](https://arxiv.org/abs/2503.05730)
+
 - DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2308.05889)
