@@ -56,6 +56,10 @@ subtitle = ""
 **Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe <br>
 [[Arxiv]](https://arxiv.org/abs/2503.05730)
 
+- Navigating the Social Welfare Frontier: Portfolios for Multi-objective Reinforcement Learning <br>
+Cheol Woo Kim, Jai Moondra, Shresth Verma, Madeleine Pollack, **Lingkai Kong**, Milind Tambe, Swati Gupta <br>
+[[Arxiv]](https://arxiv.org/abs/2502.09724)
+
 - DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
 [[Arxiv]](https://arxiv.org/abs/2308.05889)
@@ -67,6 +71,8 @@ Shresth Verma, Niclas Boehmer, **Lingkai Kong**, Milind Tambe <br>
 - What is the Right Notion of Distance between Predict-then-Optimize Tasks? <br>
 Paula Rodriguez-Diaz, **Lingkai Kong**, Kai Wang, David Alvarez-Melis, Milind Tambe <br>
 [[Arxiv]](https://arxiv.org/abs/2409.06997)
+
+
 
 
 
