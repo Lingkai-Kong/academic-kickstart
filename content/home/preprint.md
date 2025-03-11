@@ -60,10 +60,6 @@ subtitle = ""
 Cheol Woo Kim, Jai Moondra, Shresth Verma, Madeleine Pollack, **Lingkai Kong**, Milind Tambe, Swati Gupta <br>
 [[Arxiv]](https://arxiv.org/abs/2502.09724)
 
-- DF^2: Distribution-Free Decision-Focused Learning <br>
-**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
-[[Arxiv]](https://arxiv.org/abs/2308.05889)
-
 - Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards <br>
 Shresth Verma, Niclas Boehmer, **Lingkai Kong**, Milind Tambe <br>
 [[Arxiv]](https://arxiv.org/abs/2408.12112) 
@@ -71,6 +67,10 @@ Shresth Verma, Niclas Boehmer, **Lingkai Kong**, Milind Tambe <br>
 - What is the Right Notion of Distance between Predict-then-Optimize Tasks? <br>
 Paula Rodriguez-Diaz, **Lingkai Kong**, Kai Wang, David Alvarez-Melis, Milind Tambe <br>
 [[Arxiv]](https://arxiv.org/abs/2409.06997)
+
+- DF^2: Distribution-Free Decision-Focused Learning <br>
+**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
+[[Arxiv]](https://arxiv.org/abs/2308.05889)
 
 
 
