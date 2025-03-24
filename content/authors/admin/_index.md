@@ -50,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lkkong@gatech.edu"
+email: "lingkaikong@g.harvard.edu"
 
 
 
@@ -80,6 +80,6 @@ My research focuses on developing *reliable* data-driven solutions for *high-sta
 
 - **Uncertainty quantification of deep learning** [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)] -- Deep neural networks can produce incorrect yet highly overconfident predictions. How can we quantify and calibrate their uncertainty, enabling models to say, *"I don't know,"* instead of making absurd predictions in unfamiliar situations? How can we leverage this uncertainty to improve downstream decision-making?  
 - **Generative models for decision-making under uncertainty** [[NeurIPS'22](https://arxiv.org/abs/2211.13837), [NeurIPS'23](https://arxiv.org/abs/2305.16653), [AISTATS'25](https://arxiv.org/abs/2402.18012), [Arxiv](https://arxiv.org/abs/2503.05730)] -- In many decision-making scenarios, environmental parameters are unknown, and analytical constraints are difficult to formulate. How can we leverage state-of-the-art probabilistic generative models to overcome these challenges and enable robust, data-driven decision-making? 
-- **Applications in real-world domains** – Advancing AI-driven solutions in: Public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)]，Sustainability [[Arxiv](https://arxiv.org/abs/2503.05730)] and Scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [TMLR](https://arxiv.org/abs/2306.10060), [ICLR'25](https://arxiv.org/abs/2406.16976)]  
+- **Applications in real-world domains** – Advancing AI-driven solutions in: public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)],sustainability [[Arxiv](https://arxiv.org/abs/2503.05730)] and scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [TMLR](https://arxiv.org/abs/2306.10060), [ICLR'25](https://arxiv.org/abs/2406.16976)]  
     
 **Email**: lingkaikong [at] g [dot] harvard [dot] edu
