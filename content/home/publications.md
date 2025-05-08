@@ -61,7 +61,7 @@ Haorui Wang, Jeff Guo, **Lingkai Kong**, Rampi Ramprasad, Philippe Schwaller, Yu
 *International Conference on Machine Learning* (**ICML**), 2025 <br>
 
 - Robust Optimization with Diffusion Models for Green Security <br>
-**Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe
+**Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe <br>
  *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
 
 - DF^2: Distribution-Free Decision-Focused Learning
