@@ -64,7 +64,7 @@ Haorui Wang, Jeff Guo, **Lingkai Kong**, Rampi Ramprasad, Philippe Schwaller, Yu
 **Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe <br>
  *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
 
-- DF^2: Distribution-Free Decision-Focused Learning
+- DF^2: Distribution-Free Decision-Focused Learning <br>
 **Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
  *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
 
