@@ -51,6 +51,28 @@ subtitle = ""
  css_class = ""
 +++
 ---
+
+- Navigating the Social Welfare Frontier: Portfolios for Multi-objective Reinforcement Learning <br>
+Cheol Woo Kim, Jai Moondra, Shresth Verma, Madeleine Pollack, **Lingkai Kong**, Milind Tambe, Swati Gupta <br>
+*International Conference on Machine Learning* (**ICML**), 2025 <br>
+
+- LLM-Augmented Chemical Synthesis and Design Decision Programs <br>
+Haorui Wang, Jeff Guo, **Lingkai Kong**, Rampi Ramprasad, Philippe Schwaller, Yuanqi Du, Chao Zhang <br>
+*International Conference on Machine Learning* (**ICML**), 2025 <br>
+
+- Robust Optimization with Diffusion Models for Green Security <br>
+**Lingkai Kong**, Haichuan Wang, Yuqi Pan, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe
+ *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
+
+- DF^2: Distribution-Free Decision-Focused Learning
+**Lingkai Kong**, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai and Chao Zhang <br>
+ *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
+
+
+- What is the Right Notion of Distance between Predict-then-Optimize Tasks? <br>
+Paula Rodriguez-Diaz, **Lingkai Kong**, Kai Wang, David Alvarez-Melis, Milind Tambe <br>
+ *Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2025
+
 - Efficient Evolutionary Search Over Chemical Space with Large Language Models <br>
 Haorui Wang, Marta Skreta, Cher-Tian Ser, Wenhao Gao, **Lingkai Kong**, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alán Aspuru-Guzik, Kirill Neklyudov and Chao Zhang <br>
 *International Conference on Representation Learning* (**ICLR**), 2025 <br>
