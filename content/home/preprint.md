@@ -53,7 +53,7 @@ subtitle = ""
 ---
 
 - Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data <br>
-**Lingkai Kong**, Haichuan Wang, Tonghan Wang, Guojun Xiong, Milind Tambe <br>
+**Lingkai Kong**\*, Haichuan Wang\*, Tonghan Wang, Guojun Xiong, Milind Tambe <br>
 [[Arxiv]](https://arxiv.org/abs/2505.23062)
 
 - Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards <br>
