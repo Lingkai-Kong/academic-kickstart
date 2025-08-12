@@ -78,7 +78,7 @@ Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Ha
 
 I develop *reliable* data-driven solutions for *high-stakes* and *uncertain* decision-making scenarios. My work is grounded in close collaboration with public sector partners in **public health** and **environmental sustainability**. Specifically, I work on the following areas:  
 
-### 1) Learning with Uncertainty
+## 1) Learning with Uncertainty
 Deep models can be confidently wrong, which is risky in high-stakes settings. I study how to quantify and calibrate uncertainty—so models can say *“I don’t know”*—and how to use that uncertainty to drive safer downstream decisions.  
 
 - [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904) — NeurIPS’21  
@@ -87,7 +87,7 @@ Deep models can be confidently wrong, which is risky in high-stakes settings. I 
 - [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/abs/2010.11506) — EMNLP’20  
   
 
-### 2) Generative Models for Robust Decision-Making at Scale
+## 2) Generative Models for Robust Decision-Making at Scale
 Forecasting is only the first step—predictions must ultimately inform decisions. For example, in conservation, rangers must strategically allocate patrols based on forecasts of poacher activity. However, uncertainty in these forecasts and the vast action space make decision-making especially challenging. I study how to leverage generative models to make optimization robust to uncertainty and scalable.
 
 - [Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062) - Arxiv
@@ -96,7 +96,7 @@ Forecasting is only the first step—predictions must ultimately inform decision
 - [Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653) — NeurIPS’23   
 - [End-to-End Stochastic Optimization with Energy-Based Model](https://arxiv.org/abs/2211.13837) — NeurIPS’22  
 
-### 3) Applications for Social Good
+## 3) Applications for Social Good
 I work with NGOs and public agencies to translate methods into impact across public health, sustainability, and scientific discovery.  
 - Public health:
   - [LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation](https://arxiv.org/abs/2503.22719) - AAMAS-AASG'25
