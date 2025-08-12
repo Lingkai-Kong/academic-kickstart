@@ -81,32 +81,32 @@ I develop *reliable* data-driven solutions for *high-stakes* and *uncertain* dec
 ## 1) Learning with Uncertainty
 Deep models can be confidently wrong, which is risky in high-stakes settings. I study how to quantify and calibrate uncertainty—so models can say *“I don’t know”*—and how to use that uncertainty to drive safer downstream decisions.  
 
-- [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904) — NeurIPS’21  
-- [Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf) — AISTATS’24
-- [SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](https://arxiv.org/abs/2008.10546) — ICML’20  
-- [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/abs/2010.11506) — EMNLP’20  
+- [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904), NeurIPS’21  
+- [Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf), AISTATS’24
+- [SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](https://arxiv.org/abs/2008.10546), ICML’20  
+- [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/abs/2010.11506), EMNLP’20  
   
 
 ## 2) Generative Models for Robust Decision-Making at Scale
 Forecasting is only the first step—predictions must ultimately inform decisions. For example, in conservation, rangers must strategically allocate patrols based on forecasts of poacher activity. However, uncertainty in these forecasts and the vast action space make decision-making especially challenging. I study how to leverage generative models to make optimization robust to uncertainty and scalable.
 
-- [Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062) - Arxiv
-- [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730) — UAI’25
-- [Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints](https://arxiv.org/abs/2402.18012) — AISTATS’25
-- [Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653) — NeurIPS’23   
-- [End-to-End Stochastic Optimization with Energy-Based Model](https://arxiv.org/abs/2211.13837) — NeurIPS’22  
+- [Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062), Arxiv
+- [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730), UAI’25
+- [Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints](https://arxiv.org/abs/2402.18012), AISTATS’25
+- [Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653), NeurIPS’23   
+- [End-to-End Stochastic Optimization with Energy-Based Model](https://arxiv.org/abs/2211.13837), NeurIPS’22  
 
 ## 3) Applications for Social Good
 I work with NGOs and public agencies to translate methods into impact across public health, sustainability, and scientific discovery.  
 - Public health:
-  - [LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation](https://arxiv.org/abs/2503.22719) - AAMAS-AASG'25
-  - [PRIORITY2REWARD: Incorporating Healthworker Preferences for Resource Allocation Planning](https://ojs.aaai.org/index.php/AAAI/article/view/35375) - AAAI'25
-  - [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904) — NeurIPS’21  
+  - [LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation](https://arxiv.org/abs/2503.22719), AAMAS-AASG'25
+  - [PRIORITY2REWARD: Incorporating Healthworker Preferences for Resource Allocation Planning](https://ojs.aaai.org/index.php/AAAI/article/view/35375), AAAI'25
+  - [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904), NeurIPS’21  
 - Sustainability:  
-  - [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730) — UAI’25  
+  - [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730), UAI’25  
 - Scientific discovery:  
-  - [LLM-Augmented Chemical Synthesis and Design Decision Programs](https://www.arxiv.org/abs/2505.07027) — ICML'25  
-  - [Efficient Evolutionary Search Over Chemical Space with Large Language Models](https://arxiv.org/abs/2406.16976) — ICLR’25  
+  - [LLM-Augmented Chemical Synthesis and Design Decision Programs](https://www.arxiv.org/abs/2505.07027), ICML'25  
+  - [Efficient Evolutionary Search Over Chemical Space with Large Language Models](https://arxiv.org/abs/2406.16976), ICLR’25  
 
  
 **Email**: lingkaikong [at] g [dot] harvard [dot] edu
