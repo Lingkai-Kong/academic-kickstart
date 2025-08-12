@@ -78,9 +78,8 @@ Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Ha
 
 I develop *reliable* data-driven solutions for *high-stakes* and *uncertain* decision-making scenarios. My work is grounded in close collaboration with public sector partners in **public health** and **environmental sustainability**. Specifically, I work on the following areas:  
 
-### 1) Learning with Uncertainty
+#### 1) Learning with Uncertainty
 Deep models can be confidently wrong, which is risky in high-stakes settings. I study how to quantify and calibrate uncertainty—so models can say *“I don’t know”*—and how to use that uncertainty to drive safer downstream decisions.  
-
 - [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904), NeurIPS’21  
 - [Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf), AISTATS’24
 - [SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](https://arxiv.org/abs/2008.10546), ICML’20  
@@ -89,7 +88,6 @@ Deep models can be confidently wrong, which is risky in high-stakes settings. I 
 
 #### 2) Generative Models for Robust Decision-Making at Scale
 Forecasting is only the first step—predictions must ultimately inform decisions. For example, in conservation, rangers must strategically allocate patrols based on forecasts of poacher activity. However, uncertainty in these forecasts and the vast action space make decision-making especially challenging. I study how to leverage generative models to make optimization robust to uncertainty and scalable.
-
 - [Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062), Arxiv
 - [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730), UAI’25
 - [Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints](https://arxiv.org/abs/2402.18012), AISTATS’25
