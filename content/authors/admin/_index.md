@@ -78,8 +78,35 @@ Welcome to Lingkai Kong (孔令恺)'s homepage! I am a postdoctoral fellow at Ha
 
 I develop *reliable* data-driven solutions for *high-stakes* and *uncertain* decision-making scenarios. My work is grounded in close collaboration with public sector partners in **public health** and **environmental sustainability**. Specifically, I work on the following areas:  
 
-- **Learning with uncertainty** [[ICML'20](https://arxiv.org/abs/2008.10546), [EMNLP'20](https://arxiv.org/abs/2010.11506), [NeurIPS'21](https://arxiv.org/abs/2106.03904), [AISTATS'24](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf)] -- Deep neural networks can produce incorrect yet highly overconfident predictions. How can we quantify and calibrate their uncertainty, enabling models to say, *"I don't know,"* instead of making absurd predictions in unfamiliar situations? How can we leverage this uncertainty to improve downstream decision-making?  
-- **Generative models for robust decision-making at scale** [[NeurIPS'22](https://arxiv.org/abs/2211.13837), [NeurIPS'23](https://arxiv.org/abs/2305.16653), [AISTATS'25](https://arxiv.org/abs/2402.18012), [UAI'25](https://arxiv.org/abs/2503.05730)] -- In many decision-making scenarios, environmental parameters are unknown, and analytical constraints are difficult to formulate. How can we leverage state-of-the-art probabilistic generative models to overcome these challenges and enable robust, data-driven decision-making? 
-- **Applications in social good** – Advancing AI-driven solutions in: public health [[NeurIPS'21](https://arxiv.org/abs/2106.03904), [WWW'22](https://arxiv.org/abs/2109.07438), [KDD'23](https://arxiv.org/abs/2206.07940)], sustainability [[UAI'25](https://arxiv.org/abs/2503.05730)] and scientific discovery [[ICML'23](https://arxiv.org/abs/2307.08849), [TMLR](https://arxiv.org/abs/2306.10060), [ICLR'25](https://arxiv.org/abs/2406.16976)]  
-    
+### 1) Learning with Uncertainty
+Deep models can be confidently wrong. I study how to quantify and calibrate uncertainty—so models can say *“I don’t know”*—and how to use that uncertainty to drive safer downstream decisions.  
+
+- [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904) — NeurIPS’21  
+- [Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process](https://proceedings.mlr.press/v238/kong24a/kong24a.pdf) — AISTATS’24
+- [SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates](https://arxiv.org/abs/2008.10546) — ICML’20  
+- [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://arxiv.org/abs/2010.11506) — EMNLP’20  
+  
+
+### 2) Generative Models for Robust Decision-Making at Scale
+Real systems are partially known and constraints are hard to specify. I use probabilistic generative models to reason about uncertainty and enable robust, scalable decision-making.  
+
+- [Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062) - Arxiv
+- [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730) — UAI’25
+- [Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints](https://arxiv.org/abs/2402.18012) — AISTATS’25
+- [Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653) — NeurIPS’23   
+- [End-to-End Stochastic Optimization with Energy-Based Model](https://arxiv.org/abs/2211.13837) — NeurIPS’22  
+
+### 3) Applications for Social Good
+I work with NGOs and public agencies to translate methods into impact across public health, sustainability, and scientific discovery.  
+- Public health:
+  - [LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation](https://arxiv.org/abs/2503.22719) - AAMAS-AASG'25
+  - [PRIORITY2REWARD: Incorporating Healthworker Preferences for Resource Allocation Planning](https://ojs.aaai.org/index.php/AAAI/article/view/35375) - AAAI'25
+  - [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://arxiv.org/abs/2106.03904) — NeurIPS’21  
+- Sustainability:  
+  - [Robust Optimization with Diffusion Models for Green Security](https://arxiv.org/abs/2503.05730) — UAI’25  
+- Scientific discovery:  
+  - [LLM-Augmented Chemical Synthesis and Design Decision Programs](https://www.arxiv.org/abs/2505.07027) — ICML'25  
+  - [Efficient Evolutionary Search Over Chemical Space with Large Language Models](https://arxiv.org/abs/2406.16976) — ICLR’25  
+
+ 
 **Email**: lingkaikong [at] g [dot] harvard [dot] edu
